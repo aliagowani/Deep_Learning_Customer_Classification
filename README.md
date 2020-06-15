@@ -8,9 +8,12 @@ We leverage a real-case data from Texas Giant Insurance (TGI). TGI focuses on pr
 
 
 <p align="left">
-  <img src="images/1.svg" width="100%" title="hover text" alt="test">
+  <img src="images/1.svg" width="100%" title="KDE of Customer and their duration" alt="KDE of Customer and their duration">
 </p>
 
+<p align="left">
+  <img src="images/4.png" width="50%" title="KDE of Customer and their duration" alt="KDE of Customer and their duration">
+</p>
 
 We evaluated three models and showed that the deep learning model is the most accurate given the limited features and small dataset. We will look at accuracy though, it may be argued that F1 Score may be more relevant:
 <ol>
@@ -21,8 +24,7 @@ We evaluated three models and showed that the deep learning model is the most ac
 
 
 <p align="left">
-  <img src="your_relative_path_here" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+  <img src="images/2.svg" width="100%" title="hover text" alt="test">
 </p>
 
 
