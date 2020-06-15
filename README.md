@@ -22,7 +22,7 @@ We evaluated three models and showed that the deep learning model is the most ac
 </ol>
 
 <p align="left">
-  <img src="images/2.svg" width="40%" title="Bayesian Optimization Search" alt="Bayesian Optimization Search">
+  <img src="images/2.svg" width="50%" title="Bayesian Optimization Search" alt="Bayesian Optimization Search">
 </p>
 
 <p align="left">
