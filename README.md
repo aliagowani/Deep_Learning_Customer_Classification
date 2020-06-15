@@ -7,12 +7,23 @@ This project is a Proof of Concept (POC) project evaluating the output & perform
 We leverage a real-case data from Texas Giant Insurance (TGI). TGI focuses on providing commercial and personal insurance programs to its clients. TGI is an independent insurance company with an in-depth knowledge of multiple insurance products and carriers. They proactively provide service to their policyholders and present them to their clients.
 
 
+<p align="left">
+  <img src="images/1.svg" width="350" title="hover text" alt="test">
+</p>
+
+
 We evaluated three models and showed that the deep learning model is the most accurate given the limited features and small dataset. We will look at accuracy though, it may be argued that F1 Score may be more relevant:
 <ol>
 <li>Supervised Learning (Logistic Regression) Model: 73.9%</li>
 <li>Baseline Single-Layered NN: 69.4%</li>
 <li>Bayesian Optimized Deep Learning NN: 77.8%</li>
 </ol>
+
+
+<p align="left">
+  <img src="your_relative_path_here" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>
 
 
 We are pleased to report the following findings from phone calls with customers:
