@@ -1,4 +1,6 @@
-# 0. Description and Overview
+#  Description and Overview
+## Evaluating Output & Performance of a Neural Network for Small-Sized Insurance Company
+---
 
 This project is a Proof of Concept (POC) evaluating the output & performance of a Neural Network (NN) for a small-sized insurance company. We want to prove that applying Data Science principals and deep learning models can provide value to all size of businesses and with limited dastaset. 
 
