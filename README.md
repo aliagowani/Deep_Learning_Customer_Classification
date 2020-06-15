@@ -2,7 +2,7 @@
 ## Evaluating Output & Performance of a Neural Network for Small-Sized Insurance Company
 
 
-This project is a Proof of Concept (POC) evaluating the output & performance of a Neural Network (NN) for a small-sized insurance company. We want to prove that applying Data Science principals and deep learning models can provide value to all size of businesses and with limited dastaset. 
+This project is a Proof of Concept (POC) project evaluating the output & performance of a Neural Network (NN) for a small-sized insurance company. We want to prove that applying Data Science principals and deep learning models can provide value to all size of businesses and with limited dastaset. 
 
 We leverage a real-case data from Texas Giant Insurance (TGI). TGI focuses on providing commercial and personal insurance programs to its clients. TGI is an independent insurance company with an in-depth knowledge of multiple insurance products and carriers. They proactively provide service to their policyholders and present them to their clients.
 
