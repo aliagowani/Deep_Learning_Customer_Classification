@@ -8,7 +8,7 @@ We leverage a real-case data from Texas Giant Insurance (TGI). TGI focuses on pr
 
 
 <p align="left">
-  <img src="images/1.svg" width="350" title="hover text" alt="test">
+  <img src="images/1.svg" width="100%" title="hover text" alt="test">
 </p>
 
 
