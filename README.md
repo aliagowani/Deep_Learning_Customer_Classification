@@ -30,10 +30,10 @@ We evaluated three models and showed that the deep learning model is the most ac
 </p>
 
 We are pleased to report the following findings from phone calls with customers:
-<ol>
+<ul>
 <li>Two customers who are no longer TGI customers said they would be interested in coming back but are price sensitive. </li>
 <li>Two customers who are no longer TGI customers are interested in return; though, TGI may prefer not for them to come back.</li>
 <li>One customer who is still a customer asked for a quote to another line of insurance products (automobile). This was a pleasant surprise and may provide future up-selling opportunities. </li>
-</ol>
+</ul>
 
 *Note: The Customer IDs have been modified to preserve customer privacy.
