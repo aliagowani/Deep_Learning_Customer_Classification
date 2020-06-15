@@ -26,7 +26,7 @@ We evaluated three models and showed that the deep learning model is the most ac
 </p>
 
 <p align="left">
-  <img src="images/3.svg" width="50%" title="Bayesian Optimization Search" alt="Bayesian Optimization Search">
+  <img src="images/3.svg" width="50%" title="Confusion Matrix of the Bayesian Optimized Model" alt="Confusion Matrix of the Bayesian Optimized Model">
 </p>
 
 We are pleased to report the following findings from phone calls with customers:
