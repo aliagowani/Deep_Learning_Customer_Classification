@@ -36,4 +36,4 @@ We are pleased to report the following findings from phone calls with customers:
 <li>One customer who is still a customer asked for a quote to another line of insurance products (automobile). This was a pleasant surprise and may provide future up-selling opportunities. </li>
 </ul>
 
-*Note: The Customer IDs have been modified to preserve customer privacy.
+<i>Note: The Customer IDs have been modified to preserve customer privacy.</i>
