@@ -6,7 +6,6 @@ This project is a Proof of Concept (POC) project evaluating the output & perform
 
 We leverage a real-case data from Texas Giant Insurance (TGI). TGI focuses on providing commercial and personal insurance programs to its clients. TGI is an independent insurance company with an in-depth knowledge of multiple insurance products and carriers. They proactively provide service to their policyholders and present them to their clients.
 
-
 <p align="left">
   <img src="images/1.svg" width="100%" title="KDE of Customer and their duration" alt="KDE of Customer and their duration">
 </p>
@@ -22,11 +21,13 @@ We evaluated three models and showed that the deep learning model is the most ac
 <li>Bayesian Optimized Deep Learning NN: 77.8%</li>
 </ol>
 
-
 <p align="left">
   <img src="images/2.svg" width="40%" title="Bayesian Optimization Search" alt="Bayesian Optimization Search">
 </p>
 
+<p align="left">
+  <img src="images/3.svg" width="40%" title="Bayesian Optimization Search" alt="Bayesian Optimization Search">
+</p>
 
 We are pleased to report the following findings from phone calls with customers:
 <ol>
