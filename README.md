@@ -15,7 +15,7 @@ We leverage a real-case data from Texas Giant Insurance (TGI). TGI focuses on pr
 
 We evaluated three models and showed that the deep learning model is the most accurate, even with the limited features and a small dataset. We will look at accuracy though, it may be argued that F1 Score may be more relevant:
 <ol>
-<li>Supervised Learning (Logistic Regression) Model: 73.9%</li>
+<li>Supervised Learning (Logistic Regression) Model: 73.9% (F1 Score: 78.7%)</li>
 <li>Baseline Single-Layered NN: 69.4%</li>
 <li>Bayesian Optimized Deep Learning NN: 77.8% (F1 Score: 84.6%)</li>
 </ol>
